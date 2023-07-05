@@ -1,0 +1,4 @@
+The first endpoint is "/create-file" for create the files.
+Path of the files wiil be "D://creating-files/".
+The second end pint for retrieving the files list is "/list-files".
+No need to create directory manually it will create itself.
